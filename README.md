@@ -1,5 +1,10 @@
 # testcase
 mga gay  1324NIGGER
+<<<<<<< HEAD
+mga gay 1233
+
+Neil bayot
+=======
 
 
 
